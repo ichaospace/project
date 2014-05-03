@@ -1,0 +1,11 @@
+{
+  "name": "step_1",
+  "version": "0.0.0",
+  "description": "test project",
+  "main": "app_coffee.js",
+  "scripts": {
+    "test": "sample project"
+  },
+  "author": "chaospace",
+  "license": "ISC"
+}
